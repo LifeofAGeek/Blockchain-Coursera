@@ -9,3 +9,6 @@
 * https://blockgeeks.com/guides/what-is-hashing/
 * https://www.youtube.com/watch?v=DMtFhACPnTY
 * https://anders.com/blockchain/hash.html  
+* https://home.kpmg.com/xx/en/home/insights/2017/05/securing-the-blockchain-fs.html
+* https://bitcoin.stackexchange.com/questions/35448/is-it-chain-of-headers-rather-than-a-chain-of-blocks
+* https://www.cryptocompare.com/coins/guides/what-is-a-block-header-in-bitcoin/
