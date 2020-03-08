@@ -12,3 +12,6 @@
 * https://home.kpmg.com/xx/en/home/insights/2017/05/securing-the-blockchain-fs.html
 * https://bitcoin.stackexchange.com/questions/35448/is-it-chain-of-headers-rather-than-a-chain-of-blocks
 * https://www.cryptocompare.com/coins/guides/what-is-a-block-header-in-bitcoin/
+* https://www.coindesk.com/short-guide-blockchain-consensus-protocols/
+* https://blog.wavesplatform.com/review-of-blockchain-consensus-mechanisms-f575afae38f2
+* https://www.youtube.com/watch?v=hYip_Vuv8J0
