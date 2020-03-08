@@ -15,3 +15,4 @@
 * https://www.coindesk.com/short-guide-blockchain-consensus-protocols/
 * https://blog.wavesplatform.com/review-of-blockchain-consensus-mechanisms-f575afae38f2
 * https://www.youtube.com/watch?v=hYip_Vuv8J0
+* https://www.youtube.com/watch?v=8uF7RVF2osk
