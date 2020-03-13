@@ -1,4 +1,4 @@
-# Ethereum Blockchain
+# Blockchain Basics
 
 * https://blockgeeks.com/guides/smart-contracts/
 * http://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html
