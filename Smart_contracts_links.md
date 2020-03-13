@@ -6,3 +6,4 @@
 * http://solidity.readthedocs.io/en/develop/structure-of-a-contract.html
 * https://en.wikipedia.org/wiki/Camel_case
 * http://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html
+* http://ethdocs.org/en/latest/contracts-and-transactions/account-types-gas-and-transactions.html
