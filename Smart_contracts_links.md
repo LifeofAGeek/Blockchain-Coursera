@@ -10,3 +10,4 @@
 * https://blockonomi.com/solidity-guide/
 * https://www.youtube.com/watch?v=KkN1O8TChbM
 * https://www.youtube.com/watch?v=xWKq86PWG0o
+* http://solidity.readthedocs.io/en/develop/types.html
