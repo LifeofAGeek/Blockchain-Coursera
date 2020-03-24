@@ -11,3 +11,6 @@
 * https://www.youtube.com/watch?v=KkN1O8TChbM
 * https://www.youtube.com/watch?v=xWKq86PWG0o
 * http://solidity.readthedocs.io/en/develop/types.html
+* https://www.youtube.com/watch?v=8UhO3IKApSg
+* http://solidity.readthedocs.io/en/develop/units-and-global-variables.html
+* https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html
