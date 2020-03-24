@@ -14,3 +14,6 @@
 * https://www.youtube.com/watch?v=8UhO3IKApSg
 * http://solidity.readthedocs.io/en/develop/units-and-global-variables.html
 * https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html
+* http://solidity.readthedocs.io/en/develop/types.html
+* http://solidity.readthedocs.io/en/develop/types.html#enums
+* https://beta.techcrunch.com/2018/02/24/liquid-democracy-uses-blockchain/
